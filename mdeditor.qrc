@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/css/markdown.css</file>
+        <file>res/css/markdown1.css</file>
+        <file>res/js/demo.js</file>
+        <file>res/img/bold.png</file>
+        <file>res/img/font.png</file>
+        <file>res/img/header.png</file>
+        <file>res/img/italic.png</file>
+        <file>res/img/strikethrough.png</file>
+        <file>res/img/underline.png</file>
+        <file>res/img/subscript.png</file>
+        <file>res/img/superscript.png</file>
+        <file>res/img/quote.png</file>
+        <file>res/js/markdown-js-Qt.js</file>
+        <file>res/js/markdown-it.js</file>
+        <file>res/js/markdown-it-ins.js</file>
+        <file>res/js/markdown-it-mark.js</file>
+        <file>res/js/markdown-it-sub.js</file>
+        <file>res/js/markdown-it-sup.js</file>
+        <file>res/img/block-code.png</file>
+        <file>res/img/edit.png</file>
+        <file>res/img/inline-code.png</file>
+        <file>res/img/link.png</file>
+        <file>res/img/list_bulleted.png</file>
+        <file>res/img/list_numbers.png</file>
+        <file>res/img/view.png</file>
+    </qresource>
+</RCC>
